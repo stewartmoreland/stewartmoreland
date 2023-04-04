@@ -12,5 +12,9 @@
 
 ## Certifications
 
-[![badge](./img/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/63c64869-7a16-475c-981b-3189fd9b1166/public_url)
-[![badge](./img/aws-certified-developer-associate.png)](https://www.credly.com/badges/8daa3606-f090-48b1-a0d9-c2851a4f26c2/public_url)
+---
+
+[![AWS Certified Solutions Architect Professional](./img/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/63c64869-7a16-475c-981b-3189fd9b1166/public_url)
+[![AWS Certified Developer Associate](./img/aws-certified-developer-associate.png)](https://www.credly.com/badges/8daa3606-f090-48b1-a0d9-c2851a4f26c2/public_url)
+
+---
