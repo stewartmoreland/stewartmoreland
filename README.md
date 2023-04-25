@@ -1,7 +1,16 @@
 # About Me
 
-- 🔭 I’m currently working on sustainability platforms, large language models, and container platforms!
-- 🌱 I’m currently learning ML & AI development.
+- 🔭 I’m currently working on...
+
+    ```yaml
+    working_on:
+      - sustainability platforms
+      - large language models
+      - ML & AI development
+      - container platforms
+    ```
+
+- 🌱 I’m always learning.
 - 📖 Check out my [documentation](https://stewartmoreland.github.io/docs)
 - 💬 Ask me about containers and anything Kubernetes.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/stewartmoreland)
