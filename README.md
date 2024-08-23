@@ -15,10 +15,6 @@
 - 💬 Ask me about containers and anything Kubernetes.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/stewartmoreland)
 
-## Live GitHub Stats
-
-![Stewart Moreland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stewartmoreland&count_private=true&theme=github_dark)
-
 ## Certifications
 
 ---
